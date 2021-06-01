@@ -1,1 +1,2 @@
 1. git initしました。
+2. git pushしました。
